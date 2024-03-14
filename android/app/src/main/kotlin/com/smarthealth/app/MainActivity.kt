@@ -1,0 +1,6 @@
+package com.smarthealth.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
